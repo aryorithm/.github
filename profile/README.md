@@ -1,4 +1,3 @@
-### The `README.md` Code (Clean & Professional Version)
 # Aryorithm
 
 ### The Infrastructure for High-Performance AI

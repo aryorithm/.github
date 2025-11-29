@@ -195,14 +195,14 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
       <a href="https://github.com/kamisaberi">
         <img src="https://github.com/kamisaberi.png?size=100" width="100px;" alt="Kami"/>
         <br />
-        <sub><b>Kami</b></sub>
+        <sub><b>Kamran Saberifard</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME_2">
-        <img src="https://github.com/USERNAME_2.png?size=100" width="100px;" alt="Full Name 2"/>
+      <a href="https://github.com/zhmbshr">
+        <img src="https://github.com/zhmbshr.png?size=100" width="100px;" alt="Full Name 2"/>
         <br />
-        <sub><b>Full Name 2</b></sub>
+        <sub><b>Zahra Mobasheramini</b></sub>
       </a>
     </td>
     <td align="center">

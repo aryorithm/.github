@@ -236,6 +236,14 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
         <sub><b>Parsa Dokht Mohammadi</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Abol-khls">
+        <img src="https://github.com/Abol-khls.png?size=100" width="100px;" alt="Full Name 3"/>
+        <br />
+        <sub><b>Abolfazl Kholousi</b></sub>
+      </a>
+    </td>
+
 
   </tr>
 </table>

@@ -151,6 +151,18 @@ We're building the future of AI deployment, and we want you to be a part of it.
 -   **[Read the Blog](https://aryorithm.com/blog):** Deep dives, tutorials, and announcements.
 -   **[Follow us on X/Twitter](https://twitter.com/aryorithm):** For real-time updates.
 -   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
+---
+## Our Team
+
+Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
+
+<a href="https://github.com/aryorithm">
+  <img src="https://contrib.rocks/image?repo=aryorithm/xtorch&columns=12" />
+</a>
+
+
+---
+
 
 ## Our Contributors
 
@@ -163,7 +175,48 @@ A huge thank you to all the developers who have contributed to the Aryorithm eco
   <img src="https://contrib.rocks/image?repo=aryorithm/xinfer" />
 </a>
 
+---
 
+## Our Team
+
+Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
+
+[![Aryorithm's Organization Members](https://gh-card.dev/org/aryorithm.svg?theme=github_dark)](https://github.com/aryorithm)
+
+***
+---
+## Our Team
+
+Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/kamisaberi">
+        <img src="https://github.com/kamisaberi.png?size=100" width="100px;" alt="Kami"/>
+        <br />
+        <sub><b>Kami</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME_2">
+        <img src="https://github.com/USERNAME_2.png?size=100" width="100px;" alt="Full Name 2"/>
+        <br />
+        <sub><b>Full Name 2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/USERNAME_3">
+        <img src="https://github.com/USERNAME_3.png?size=100" width="100px;" alt="Full Name 3"/>
+        <br />
+        <sub><b>Full Name 3</b></sub>
+      </a>
+    </td>
+    <!-- To add another member, copy a `<td>` block and paste it here -->
+  </tr>
+</table>
+
+---
 ***
 
 **Aryorithm, Inc.** • Accelerating the Future of Artificial Intelligence.

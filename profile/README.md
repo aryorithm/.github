@@ -152,6 +152,8 @@ We're building the future of AI deployment, and we want you to be a part of it.
 -   **[Follow us on X/Twitter](https://twitter.com/aryorithm):** For real-time updates.
 -   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
 ---
+
+
 ## Our Team
 
 Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
@@ -175,15 +177,6 @@ A huge thank you to all the developers who have contributed to the Aryorithm eco
   <img src="https://contrib.rocks/image?repo=aryorithm/xinfer" />
 </a>
 
----
-
-## Our Team
-
-Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
-
-[![Aryorithm's Organization Members](https://gh-card.dev/org/aryorithm.svg?theme=github_dark)](https://github.com/aryorithm)
-
-***
 ---
 ## Our Team
 

@@ -214,10 +214,10 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
     </td>
 
     <td align="center">
-      <a href="https://github.com/SbhnNP">
-        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
+      <a href="https://github.com/parrnn">
+        <img src="https://github.com/parrnn.png?size=100" width="100px;" alt="Full Name 3"/>
         <br />
-        <sub><b>Sobhan Nikpour</b></sub>
+        <sub><b>Pariya Ranji</b></sub>
       </a>
     </td>
 

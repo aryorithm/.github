@@ -212,7 +212,6 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
         <sub><b>Sobhan Nikpour</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/parrnn">
         <img src="https://github.com/parrnn.png?size=100" width="100px;" alt="Full Name 3"/>
@@ -220,7 +219,6 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
         <sub><b>Pariya Ranji</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/adelbozorgbashar">
         <img src="https://github.com/adelbozorgbashar.png?size=100" width="100px;" alt="Full Name 3"/>
@@ -228,7 +226,6 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
         <sub><b>Adel Bozorg Bashar</b></sub>
       </a>
     </td>
-
     <td align="center">
       <a href="https://github.com/ParsaDokhtMohammadi">
         <img src="https://github.com/ParsaDokhtMohammadi.png?size=100" width="100px;" alt="Full Name 3"/>
@@ -243,8 +240,6 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
         <sub><b>Abolfazl Kholousi</b></sub>
       </a>
     </td>
-
-
   </tr>
 </table>
 

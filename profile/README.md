@@ -206,13 +206,37 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/USERNAME_3">
-        <img src="https://github.com/USERNAME_3.png?size=100" width="100px;" alt="Full Name 3"/>
+      <a href="https://github.com/SbhnNP">
+        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
         <br />
-        <sub><b>Full Name 3</b></sub>
+        <sub><b>Sobhan Nikpour</b></sub>
       </a>
     </td>
-    <!-- To add another member, copy a `<td>` block and paste it here -->
+
+    <td align="center">
+      <a href="https://github.com/SbhnNP">
+        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
+        <br />
+        <sub><b>Sobhan Nikpour</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/SbhnNP">
+        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
+        <br />
+        <sub><b>Sobhan Nikpour</b></sub>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://github.com/SbhnNP">
+        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
+        <br />
+        <sub><b>Sobhan Nikpour</b></sub>
+      </a>
+    </td>
+
   </tr>
 </table>
 

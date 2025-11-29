@@ -158,30 +158,6 @@ We're building the future of AI deployment, and we want you to be a part of it.
 
 Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
 
-<a href="https://github.com/aryorithm">
-  <img src="https://contrib.rocks/image?repo=aryorithm/xtorch&columns=12" />
-</a>
-
-
----
-
-
-## Our Contributors
-
-A huge thank you to all the developers who have contributed to the Aryorithm ecosystem!
-
-<a href="https://github.com/aryorithm/xtorch/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aryorithm/xtorch" />
-</a>
-<a href="https://github.com/aryorithm/xinfer/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aryorithm/xinfer" />
-</a>
-
----
-## Our Team
-
-Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
-
 <table>
   <tr>
     <td align="center">

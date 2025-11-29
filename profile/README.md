@@ -216,4 +216,3 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
 ***
 
 **Aryorithm, Inc.** • Accelerating the Future of Artificial Intelligence.
-```

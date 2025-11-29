@@ -230,10 +230,10 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
     </td>
 
     <td align="center">
-      <a href="https://github.com/SbhnNP">
-        <img src="https://github.com/SbhnNP.png?size=100" width="100px;" alt="Full Name 3"/>
+      <a href="https://github.com/ParsaDokhtMohammadi">
+        <img src="https://github.com/ParsaDokhtMohammadi.png?size=100" width="100px;" alt="Full Name 3"/>
         <br />
-        <sub><b>Sobhan Nikpour</b></sub>
+        <sub><b>Parsa Dokht Mohammadi</b></sub>
       </a>
     </td>
 

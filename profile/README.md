@@ -149,7 +149,7 @@ curl -X POST \
 
 We're building the future of AI deployment, and we want you to be a part of it.
 -   **[Join our Discord](https://discord.gg/your-invite-code):** The best place to get help, share your projects, and chat directly with the engineering team.
--   **[Read the Blog](https://aryorithm.com/blog):** Deep dives, tutorials, and announcements.
+-   **[Read the Latest News](https://aryorithm.com/news):** Deep dives, tutorials, and announcements.
 -   **[Follow us on X/Twitter](https://twitter.com/aryorithm):** For real-time updates.
 -   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
 ---

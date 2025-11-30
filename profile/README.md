@@ -42,6 +42,7 @@ Explore our open-source tools. We believe in building in the open and welcome co
 | **[aryorithm/xinfer](https://github.com/aryorithm/xinfer)** | High-performance Python & C++ client SDKs for Ignition-Hub. Features async support, gRPC streaming, and detailed timing info. |
 | **[aryorithm/docs](https://github.com/aryorithm/docs)** | The source for our documentation website, built with Next.js. A great example of our philosophy in action. |
 | **[aryorithm/examples](https://github.com/aryorithm/examples)** | A curated collection of end-to-end examples, from converting a YOLOv8 model to deploying a Transformer with C++. |
+| **[aryorithm/engines](https://github.com/aryorithm/engines)** | List of compiled engines. |
 
 ---
 

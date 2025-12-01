@@ -148,16 +148,6 @@ curl -X POST \
 
 ---
 
-## Community & Support
-
-We're building the future of AI deployment, and we want you to be a part of it.
--   **[Join our Discord](https://discord.gg/your-invite-code):** The best place to get help, share your projects, and chat directly with the engineering team.
--   **[Read the Latest News](https://aryorithm.com/news):** Deep dives, tutorials, and announcements.
--   **[Follow us on X/Twitter](https://twitter.com/aryorithm):** For real-time updates.
--   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
----
-
-
 ## Our Team
 
 Meet the core team behind Aryorithm. We are passionate about building the next generation of tools for AI developers.
@@ -215,6 +205,20 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
     </td>
   </tr>
 </table>
+
+
+
+---
+## Community & Support
+
+We're building the future of AI deployment, and we want you to be a part of it.
+-   **[Join our Discord](https://discord.gg/your-invite-code):** The best place to get help, share your projects, and chat directly with the engineering team.
+-   **[Read the Latest News](https://aryorithm.com/news):** Deep dives, tutorials, and announcements.
+-   **[Follow us on X/Twitter](https://twitter.com/aryorithm):** For real-time updates.
+-   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
+---
+
+
 
 ---
 ***

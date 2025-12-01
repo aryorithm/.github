@@ -218,9 +218,6 @@ We're building the future of AI deployment, and we want you to be a part of it.
 -   **Contribute:** Found a bug or have an idea? We welcome issues and pull requests on all our repositories. Check out our `CONTRIBUTING.md` guides to get started.
 ---
 
-
-
----
 ***
 
 **Aryorithm, Inc.** • Accelerating the Future of Artificial Intelligence.

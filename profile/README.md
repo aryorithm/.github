@@ -5,7 +5,7 @@
 Aryorithm is on a mission to eliminate the friction between AI model training and production-grade, low-latency deployment. We build the core infrastructure that empowers developers and enterprises to serve optimized models at scale, with unparalleled speed and simplicity.
 
 ---
-[**Get Started on Ignition-Hub**](https://aryorithm.com/register) &nbsp;&nbsp;•&nbsp;&nbsp; [**Read XInfer Documentation**](https://aryorithm.com/xinfer/docs)  &nbsp;&nbsp;•&nbsp;&nbsp; [**Read XTorch Documentation**](https://aryorithm.com/xtorch/docs) &nbsp;&nbsp;•&nbsp;&nbsp; [**Join our Community Discord**](https://discord.gg/your-invite-code)
+[**Get Started on Ignition-Hub**](https://aryorithm.com/register) &nbsp;&nbsp;•&nbsp;&nbsp;\ [**Read XInfer Documentation**](https://aryorithm.com/xinfer/docs)  &nbsp;&nbsp;•&nbsp;&nbsp; [**Read XTorch Documentation**](https://aryorithm.com/xtorch/docs) &nbsp;&nbsp;•&nbsp;&nbsp; \ [**Join our Community Discord**](https://discord.gg/your-invite-code)
 ---
 
 ## The Aryorithm Pipeline: From Research to Real-Time

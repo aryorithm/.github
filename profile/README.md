@@ -184,7 +184,7 @@ Meet the core team behind Aryorithm. We are passionate about building the next g
     </td>
     <td align="center">
       <a href="https://github.com/vidaentezar">
-        <img src="https://github.com/vidaentezar?size=100" width="50px;" alt="Full Name 3"/>
+        <img src="https://github.com/vidaentezar.png?size=100" width="50px;" alt="Full Name 3"/>
         <br />
         <sub><b>Adel Bozorg Bashar</b></sub>
       </a>
